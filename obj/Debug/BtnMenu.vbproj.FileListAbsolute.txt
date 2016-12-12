@@ -1,0 +1,18 @@
+C:\Users\Pedro\AppData\Local\Temporary Projects\BtnMenu\bin\Debug\BtnMenu.dll
+C:\Users\Pedro\AppData\Local\Temporary Projects\BtnMenu\bin\Debug\BtnMenu.pdb
+C:\Users\Pedro\AppData\Local\Temporary Projects\BtnMenu\bin\Debug\BtnMenu.xml
+C:\Users\Pedro\AppData\Local\Temporary Projects\BtnMenu\obj\Debug\BtnMenu.BtnMenu.resources
+C:\Users\Pedro\AppData\Local\Temporary Projects\BtnMenu\obj\Debug\BtnMenu.Resources.resources
+C:\Users\Pedro\AppData\Local\Temporary Projects\BtnMenu\obj\Debug\BtnMenu.vbproj.GenerateResource.Cache
+C:\Users\Pedro\AppData\Local\Temporary Projects\BtnMenu\obj\Debug\BtnMenu.dll
+C:\Users\Pedro\AppData\Local\Temporary Projects\BtnMenu\obj\Debug\BtnMenu.xml
+C:\Users\Pedro\AppData\Local\Temporary Projects\BtnMenu\obj\Debug\BtnMenu.pdb
+C:\Users\Pedro\documents\visual studio 2010\Projects\BtnMenu\BtnMenu\bin\Debug\BtnMenu.dll
+C:\Users\Pedro\documents\visual studio 2010\Projects\BtnMenu\BtnMenu\bin\Debug\BtnMenu.pdb
+C:\Users\Pedro\documents\visual studio 2010\Projects\BtnMenu\BtnMenu\bin\Debug\BtnMenu.xml
+C:\Users\Pedro\documents\visual studio 2010\Projects\BtnMenu\BtnMenu\obj\Debug\BtnMenu.BtnMenu.resources
+C:\Users\Pedro\documents\visual studio 2010\Projects\BtnMenu\BtnMenu\obj\Debug\BtnMenu.Resources.resources
+C:\Users\Pedro\documents\visual studio 2010\Projects\BtnMenu\BtnMenu\obj\Debug\BtnMenu.vbproj.GenerateResource.Cache
+C:\Users\Pedro\documents\visual studio 2010\Projects\BtnMenu\BtnMenu\obj\Debug\BtnMenu.dll
+C:\Users\Pedro\documents\visual studio 2010\Projects\BtnMenu\BtnMenu\obj\Debug\BtnMenu.xml
+C:\Users\Pedro\documents\visual studio 2010\Projects\BtnMenu\BtnMenu\obj\Debug\BtnMenu.pdb
